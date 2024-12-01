@@ -1,1 +1,1 @@
-## Experiment name
+## Heat transfer through pin fin
