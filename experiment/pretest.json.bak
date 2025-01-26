@@ -1,11 +1,30 @@
 [
+
     {
-        "question": "Sample Question",
+        "question": "The fin efficiency for one end insulated is given by",
         "qid": 1,
-        "option_a": "Option A",
-        "option_b": "Option B",
-        "option_c": "Option C",
-        "option_d": "Option D",
-        "correct_option": "a"
+        "option_a": "$$ \\eta = \\frac{1}{mL}$$",
+        "option_b": "$$ \\epsilon = \\eta \\frac{PL}{A}$$",
+        "option_c": "$$ \\eta = \\frac{tanh(mL)}{mL} $$",
+        "option_d": "$$ \\eta = \\frac{mL}{tanh(mL)} $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "The fin efficiency for infinitely long insulated is given by",
+        "qid": 2,
+        "option_a": "$$ \\eta = \\frac{mL}{tanh(mL)} $$",
+        "option_b": "$$ \\eta = \\frac{tanh(mL)}{mL} $$",
+        "option_c": "$$ \\eta = \\frac{1}{mL} $$",  
+        "option_d": "$$ \\epsilon = \\eta \\frac{PL}{A}$$",
+        "correct_option": "c"
+    },
+    {
+        "question": "The relationship between fin efficiency and fin effectiveness is given by",
+        "qid": 3,
+        "option_a": "$$ \\eta = \\frac{1}{mL} $$",
+        "option_b": "$$ \\epsilon = \\eta \\frac{PL}{A}$$",
+        "option_c": "$$ \\eta = \\frac{tanh(mL)}{mL}$$",
+        "option_d": "$$ \\eta = \\frac{mL}{tanh(mL)}$$",
+        "correct_option": "b"
     }
 ]
