@@ -1,0 +1,21 @@
+[
+    {
+        "question": "An aluminium rod of 2.7cm in diameter and 10cm long, protrudes from a wall maintained at 228°C. The rod is exposed to an environment at 27°C. The convective heat transfer coefficient is 15W/m<sup>2</sup>-K. K<sub>AL</sub> = 200W/m-K. Rod is insulated at the end. Calculate heat loss by fin.",
+        "qid": 1,
+        "option_a": "24.667 W",
+        "option_b": "21.345 W",
+        "option_c": "25.723 W",
+        "option_d": "20.001 W",
+        "correct_option": "a"
+    },
+
+    {
+        "question": "Find the fin efficiency in the above case",
+        "qid": 2,
+        "option_a": "0.965%",
+        "option_b": "1.322%",
+        "option_c": "0.870%",
+        "option_d": "0.902%",
+        "correct_option": "a"
+    }
+]
